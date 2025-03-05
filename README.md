@@ -3,6 +3,7 @@
 
 ### 📱 About App
 > Using logic, you need to move the numbers to 4 sides (up, down, left and right). In this case, adjacent numbers are added
+> 
 > Technical: Kotlin,MediaPlayer,SharedPreference,Glide(image,gif loading library),TouchListener
 
 
